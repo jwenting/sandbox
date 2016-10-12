@@ -1,0 +1,13 @@
+spring:
+#  datasource:
+#    url: jdbc:hsqldb:file:db/organization-db
+#    username: dbuser
+#    password: dbpass
+#    driver-class-name: org.hsqldb.jdbc.JDBCDriver
+  application:
+    name: duckman-sandbox
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+
