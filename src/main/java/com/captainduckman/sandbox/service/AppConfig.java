@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by JeroenWenting on 13-Oct-16.
+ * Just a test class for the behaviour of injected config values in jUnit tests.
  */
 @Configuration
 public class AppConfig {
