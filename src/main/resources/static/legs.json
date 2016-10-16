@@ -1,0 +1,18 @@
+[
+  {"id": "1", "dep": "EHLE", "arr": "EDDS"},
+  {"id": "2", "dep": "EDDS", "arr": "LIPZ"},
+  {"id": "3", "dep": "LIPZ", "arr": "LATI"},
+  {"id": "4", "dep": "LATI", "arr": "LAGV"},
+  {"id": "5", "dep": "LAGV", "arr": "LGKJ"},
+  {"id": "6", "dep": "LAGV", "arr": "LGKJ"},
+  {"id": "7", "dep": "LGKJ", "arr": "LCLK"},
+  {"id": "8", "dep": "LCLK", "arr": "LLRD"},
+  {"id": "9", "dep": "LLRD", "arr": "LLET"},
+  {"id": "10", "dep": "LLET", "arr": "OESK"},
+  {"id": "11", "dep": "OESK", "arr": "OEPA"},
+  {"id": "12", "dep": "OEPA", "arr": "OTBD"},
+  {"id": "13", "dep": "OTBD", "arr": "OMFJ"},
+  {"id": "14", "dep": "OMFJ", "arr": "OPPI"},
+  {"id": "15", "dep": "OPPI", "arr": "OPKC"},
+  {"id": "16", "dep": "OPKC", "arr": "VAAH"}
+]

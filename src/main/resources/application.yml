@@ -4,6 +4,8 @@ spring:
 #    username: dbuser
 #    password: dbpass
 #    driver-class-name: org.hsqldb.jdbc.JDBCDriver
+  profiles:
+    active: dev
   application:
     name: duckman-sandbox
   jpa:
